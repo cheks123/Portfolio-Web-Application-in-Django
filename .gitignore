@@ -1,0 +1,5 @@
+db.sqlite3
+blog/__pycache__
+projects/__pycache__
+blog/migrations
+projects/migrations
